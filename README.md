@@ -122,12 +122,12 @@
 
 | Документ | Ссылка |
 |----------|--------|
-| **Система управления насосами (ОВЕН ПЛК100 + CoDeSys)** | [📄](https://github.com/ProjectADTP/Automated-Control-System-Engineer/blob/main/Автомата_выдачи_газет/Автомат_выдачи_газет.pdf) |
-| **Автомат выдачи газет (Multisim + CoDeSys)** | [📄]([link](https://github.com/ProjectADTP/Automated-Control-System-Engineer/blob/main/Автомата_выдачи_газет/Автомат_выдачи_газет.pdf)) |
-| **Игра «Тетрис» (Omron CP1L + Kinco HMI)** | [📄]([link](https://github.com/ProjectADTP/Automated-Control-System-Engineer/blob/main/Работа_с_ПЛК_OMRON/Работа_с_ПЛК_OMRON.pdf)) |
-| **Управление коллекторным двигателем (Arduino + LabVIEW)** | [📄]([link](https://github.com/ProjectADTP/Automated-Control-System-Engineer/blob/main/Управление_коллекторным_эллектродвигателем/Управление_коллекторным_эллектродвигателем.pdf)) |
-| **Плата TTGO T9 TAudio (ESP32)** | [📄]([link](https://github.com/ProjectADTP/Automated-Control-System-Engineer/blob/main/Работа%20с%20платой%20TTGO/Работа%20с%20платой%20TTGO.pdf)) |
-| **Цифровой двойник учебной аудитории** | [📄]([link](https://github.com/ProjectADTP/Automated-Control-System-Engineer/blob/main/Цифровой%20двойник/Цифровой%20двойник%20учебной%20аудитории.pdf)) |
+| **Система управления насосами (ОВЕН ПЛК100 + CoDeSys)** | [📄](https://github.com/ProjectADTP/Automated-Control-System-Engineer/blob/main/Система_управления_насосами/Система_управления_насосами.pdf) |
+| **Автомат выдачи газет (Multisim + CoDeSys)** | [📄](https://github.com/ProjectADTP/Automated-Control-System-Engineer/blob/main/Автомата_выдачи_газет/Автомат_выдачи_газет.pdf) |
+| **Игра «Тетрис» (Omron CP1L + Kinco HMI)** | [📄](https://github.com/ProjectADTP/Automated-Control-System-Engineer/blob/main/Работа_с_ПЛК_OMRON/Работа_с_ПЛК_OMRON.pdf) |
+| **Управление коллекторным двигателем (Arduino + LabVIEW)** | [📄](https://github.com/ProjectADTP/Automated-Control-System-Engineer/blob/main/Управление_коллекторным_эллектродвигателем/Управление_коллекторным_эллектродвигателем.pdf) |
+| **Плата TTGO T9 TAudio (ESP32)** | [📄](https://github.com/ProjectADTP/Automated-Control-System-Engineer/blob/main/Работа%20с%20платой%20TTGO/Работа%20с%20платой%20TTGO.pdf) |
+| **Цифровой двойник учебной аудитории** | [📄](https://github.com/ProjectADTP/Automated-Control-System-Engineer/blob/main/Цифровой%20двойник/Цифровой%20двойник%20учебной%20аудитории.pdf) |
 
 ---
 

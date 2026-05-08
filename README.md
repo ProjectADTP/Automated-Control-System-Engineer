@@ -122,7 +122,7 @@
 
 | Документ | Ссылка |
 |----------|--------|
-| **Система управления насосами (ОВЕН ПЛК100 + CoDeSys)** | [📄]([link](https://github.com/ProjectADTP/Automated-Control-System-Engineer/blob/main/Автомата_выдачи_газет/Автомат_выдачи_газет.pdf)) |
+| **Система управления насосами (ОВЕН ПЛК100 + CoDeSys)** | [📄](https://github.com/ProjectADTP/Automated-Control-System-Engineer/blob/main/Автомата_выдачи_газет/Автомат_выдачи_газет.pdf) |
 | **Автомат выдачи газет (Multisim + CoDeSys)** | [📄]([link](https://github.com/ProjectADTP/Automated-Control-System-Engineer/blob/main/Автомата_выдачи_газет/Автомат_выдачи_газет.pdf)) |
 | **Игра «Тетрис» (Omron CP1L + Kinco HMI)** | [📄]([link](https://github.com/ProjectADTP/Automated-Control-System-Engineer/blob/main/Работа_с_ПЛК_OMRON/Работа_с_ПЛК_OMRON.pdf)) |
 | **Управление коллекторным двигателем (Arduino + LabVIEW)** | [📄]([link](https://github.com/ProjectADTP/Automated-Control-System-Engineer/blob/main/Управление_коллекторным_эллектродвигателем/Управление_коллекторным_эллектродвигателем.pdf)) |
